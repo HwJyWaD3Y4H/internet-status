@@ -12,13 +12,3 @@ printf "\nBluetooth Status\n"
 /usr/bin/hcitool dev
 /usr/bin/hcitool con
 printf "\n"
-
-# --------------------------------------------------------
-#
-# TO DO
-#
-
-# - external ip addresses
-# - dns servers
-# - router info (name, addresses)
-# - clean up ip addr field
