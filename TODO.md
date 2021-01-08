@@ -5,4 +5,6 @@
 ### Router info  
 - router info (name, IP address)  
 ### clean up ip addr field  
-- only show IP address
+- only show IP address  
+### display wifi ssid  
+- how to determine  
